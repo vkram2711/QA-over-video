@@ -1,0 +1,6 @@
+git+https://github.com/openai/whisper.git -q
+requests
+moviepy
+langchain
+faiss-cpu
+openai
